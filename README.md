@@ -12,3 +12,8 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default (which is excluded for versioning).
 
+## Disclaimer
+
+- These solution may not be the ideal.
+- This is just for learning and LLD interview purpose.
+- 🙏.
